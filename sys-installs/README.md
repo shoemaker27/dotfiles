@@ -8,3 +8,9 @@
 
 # Citations
  - [AWS CLI Installation Docs](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+	- Used the following commands from this set of Installation docs:
+	```
+	curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+	unzip awscliv2.zip
+	sudo ./aws/install
+	```

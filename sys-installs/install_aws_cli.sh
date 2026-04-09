@@ -14,7 +14,7 @@ fi
 
 # Inform the user on what will be installed and prompts the user to proceed or exit
 echo "--------------------------------------------------------"
-echo "This script will install the AWS Command Line Interface (AWS CLI) v2."
+echo "This script will install the AWS Command Line Interface"
 echo "Dependencies to be installed: curl, unzip."
 echo "--------------------------------------------------------"
 read -p "Do you want to proceed? (y/n): " confirm
