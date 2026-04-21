@@ -15,7 +15,8 @@
 	- Run install_aws_cli.sh: 
 		- `cd sys-installs`
 		- `./install_aws_cli.sh`
-	- Run vimInstall.sh: `./vimInstall.sh`
+	- Run vimInstall.sh: 
+		- `./vimInstall.sh`
 	
 	- More details about each script can be found in the README.md files in their respective folders
 	
